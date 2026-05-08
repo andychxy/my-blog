@@ -2,7 +2,7 @@ baseURL = "https://blog.1024ai.cc/"
 title = "Andy's Analysis"
 theme = "dream"
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 [languages]
 [languages.zh]
