@@ -1,0 +1,27 @@
+baseURL = "https://blog.1024ai.cc/"
+title = "Andy's Analysis"
+theme = "dream"
+locale = "en-us"
+[params]
+  author = "Andy"
+  description = "Interdisciplinary analysis of Artificial Intelligence and Global Geopolitics"
+  [params.social]
+    github = "andychxy"
+    twitter = "andychxy"
+[menu]
+  [[menu.main]]
+    name = "Analysis"
+    url = "/categories/analysis/"
+    weight = 1
+  [[menu.main]]
+    name = "AI"
+    url = "/tags/ai/"
+    weight = 2
+  [[menu.main]]
+    name = "Geopolitics"
+    url = "/tags/geopolitics/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
