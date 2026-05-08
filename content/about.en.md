@@ -4,6 +4,7 @@ date: 2026-05-08
 menu:
   main:
     weight: 4
+translationKey: about
 ---
 
 # About
