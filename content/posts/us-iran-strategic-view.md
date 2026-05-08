@@ -1,9 +1,50 @@
 ---
-title: "Strategic Dynamics in US-Iran Relations"
+title: "美伊恩怨：一个结构性分析框架"
 date: 2026-05-08
 categories: ["Analysis"]
-tags: ["Geopolitics", "Middle East"]
-description: "A structural analysis of the current diplomatic stalemate and potential catalysts for change."
+tags: ["Series", "Geopolitics", "US-Iran", "Series Overview"]
+description: "系统梳理美伊关系的历史脉络、核心矛盾与未来走向，建立分析中美博弈的结构性框架。"
 ---
-# Strategic Dynamics in US-Iran Relations
-This is a placeholder for a detailed analysis of the geopolitical landscape between the US and Iran.
+
+# 美伊恩怨：一個結構性分析框架
+
+理解美伊關係，不能只看新聞熱點，必須回到結構。
+
+## 為什麼是"結構性"分析
+
+美伊之間的對抗不是個人恩怨，不是政策失誤，而是兩種地緣政治邏輯的系統性碰撞：
+
+- **美國**的邏輯：中東石油美元體系 + 盟友安全框架 + 民主推廣意識形態
+- **伊朗**的邏輯：什葉派抵抗弧線 + 獨立工業化願望 + 區域大國野心
+
+這兩套邏輯在1979年伊斯蘭革命後正式決裂，此後45年再也沒有真正修復。
+
+## 本系列結構
+
+本系列將按以下脈絡深入分析：
+
+1. **歷史基礎** - 1979年革命與人質危機：一切的起點
+2. **核問題博弈** - 從JCPOA到美國退群：承諾為何崩潰
+3. **代理人之戰** - 伊拉克、敘利亞、葉門、黎巴嫩：看不見的戰線
+4. **制裁經濟戰** - 極限施壓與抵抗經濟：制裁有效嗎？
+5. **軍事摩擦** - 荷莫茲海峽與戰爭邊緣：如何避免擦槍走火
+6. **AI時代的新變量** - 技術改變力量對比：伊朗的數位反擊
+
+## 三個核心問題
+
+分析美伊關係，有三個問題必須時刻追問：
+
+**第一：伊朗的核能力究竟威脅誰？**
+發展核武的動機是防禦還是進攻？這決定了談判的底層邏輯。
+
+**第二：制裁的目標是什麼？**
+改變政權？約束行為？還是維護盟友安全？目標不清，策略必然混亂。
+
+**第三：地區代理人模式會持續多久？**
+伊朗的非對稱優勢是否正在被AI和信息戰削弱？
+
+這三個問題將貫穿整個系列。
+
+---
+
+*本文是"美伊恩怨"系列的第一篇。[下一篇：1979年革命的深層根源 →](/posts/us-iran-1979-revolution/)*
