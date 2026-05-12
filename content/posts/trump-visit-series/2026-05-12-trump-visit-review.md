@@ -2,6 +2,7 @@
 title: "旧梦与余震：回顾特朗普时期的访华逻辑"
 date: 2026-05-12T12:00:00+08:00
 draft: false
+translationKey: "trump-visit-review"
 categories: ["地缘政治", "美中关系"]
 tags: ["特朗普", "外交博弈", "回顾"]
 image: "/images/posts/trump-visit-2017-cover.jpg"

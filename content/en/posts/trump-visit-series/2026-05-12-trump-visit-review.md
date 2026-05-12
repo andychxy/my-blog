@@ -2,6 +2,7 @@
 title: "Old Dreams and Aftershocks: Reviewing the Logic of Trump's Past Visits to China"
 date: 2026-05-12T12:00:00+08:00
 draft: false
+translationKey: "trump-visit-review"
 categories: ["Geopolitics", "US-China Relations"]
 tags: ["Trump", "Diplomatic Game", "Review"]
 image: "/images/posts/trump-visit-2017-cover.jpg"
