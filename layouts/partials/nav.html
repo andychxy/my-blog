@@ -79,8 +79,31 @@
         </ul>
       </div>
       {{ end }}
-
-      {{ partial "language-switcher.html" . }}
     </section>
+
+    {{ if gt (len site.Languages) 1 }}
+    <section class="flex items-center gap-1 ml-2">
+      {{ if .IsTranslated }}
+      {{ range .Translations }}
+      <a href="{{ .RelPermalink }}"
+        class="text-sm font-semibold px-2 py-1 rounded hover:bg-primary hover:text-primary-content transition-colors"
+        title="{{ .Language.Label }}">
+        {{ .Language.Label }}
+      </a>
+      {{ end }}
+      {{ else }}
+      {{ range site.Languages }}
+      {{ if ne .Lang site.Language.Lang }}
+      <a href="{{ .Lang | relLangURL }}"
+        class="text-sm font-semibold px-2 py-1 rounded hover:bg-primary hover:text-primary-content transition-colors"
+        title="{{ .Params.Label }}">
+        {{ .Params.Label }}
+      </a>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </section>
+    {{ end }}
+
   </div>
 </nav>
