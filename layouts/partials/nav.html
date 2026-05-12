@@ -87,8 +87,8 @@
       {{ range .Translations }}
       <a href="{{ .RelPermalink }}"
         class="text-sm font-semibold px-2 py-1 rounded hover:bg-primary hover:text-primary-content transition-colors"
-        title="{{ .Language.Lang }}">
-        {{ if eq .Language.Lang "en" }}English{{ else }}中文{{ end }}
+        title="{{ .Lang }}">
+        {{ if eq .Lang "en" }}English{{ else }}中文{{ end }}
       </a>
       {{ end }}
       {{ else }}
