@@ -81,19 +81,27 @@
       {{ end }}
     </section>
 
-    {{ if gt (len site.Languages) 1 }}
-    <section class="flex items-center gap-1 ml-2">
-      {{ range site.Languages }}
-      {{ if ne .Lang site.Language.Lang }}
-      <a href="{{ .Lang | relLangURL }}"
-        class="text-sm font-semibold px-2 py-1 rounded hover:bg-primary hover:text-primary-content transition-colors"
-        title="{{ .Lang }}">
-        {{ if eq .Lang "en" }}English{{ else }}中文{{ end }}
-      </a>
-      {{ end }}
-      {{ end }}
-    </section>
-    {{ end }}
-
-  </div>
+{{ if gt (len site.Languages) 1 }}
+<section class="flex items-center gap-1 ml-2">
+  {{ if .IsTranslated }}
+  {{ range .Translations }}
+  <a href="{{ .RelPermalink }}"
+    class="text-sm font-semibold px-2 py-1 rounded hover:bg-primary hover:text-primary-content transition-colors"
+    title="{{ .Lang }}">
+    {{ if eq .Language.Lang "en" }}English{{ else }}中文{{ end }}
+  </a>
+  {{ end }}
+  {{ else }}
+  {{ range site.Languages }}
+  {{ if ne .Lang site.Language.Lang }}
+  <a href="{{ .Lang | relLangURL }}"
+    class="text-sm font-semibold px-2 py-1 rounded hover:bg-primary hover:text-primary-content transition-colors"
+    title="{{ .Lang }}">
+    {{ if eq .Lang "en" }}English{{ else }}中文{{ end }}
+  </a>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</section>
+{{ end }}  </div>
 </nav>
