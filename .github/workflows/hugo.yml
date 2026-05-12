@@ -29,7 +29,7 @@ jobs:
 
       - name: Deploy to Cloudflare Pages
         run: |
-          npm install -g wrangler
+          npm install -g wrangler@3
           wrangler pages deploy public --project-name=my-blog
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLAREAPITOKEN }}
