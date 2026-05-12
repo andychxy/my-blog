@@ -83,17 +83,6 @@
 
     {{ if gt (len site.Languages) 1 }}
     <section class="flex items-center gap-1 ml-2">
-      {{ $currentLang := .Lang }}
-      {{ if .IsTranslated }}
-      {{ range .Translations }}
-      {{ $otherLang := .Lang }}
-      <a href="{{ .RelPermalink }}"
-        class="text-sm font-semibold px-2 py-1 rounded hover:bg-primary hover:text-primary-content transition-colors"
-        title="{{ $otherLang }}">
-        {{ if eq $otherLang "en" }}English{{ else }}中文{{ end }}
-      </a>
-      {{ end }}
-      {{ else }}
       {{ range site.Languages }}
       {{ if ne .Lang site.Language.Lang }}
       <a href="{{ .Lang | relLangURL }}"
@@ -101,7 +90,6 @@
         title="{{ .Lang }}">
         {{ if eq .Lang "en" }}English{{ else }}中文{{ end }}
       </a>
-      {{ end }}
       {{ end }}
       {{ end }}
     </section>
