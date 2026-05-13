@@ -14,7 +14,17 @@ head_end = """<style>
   --color-red-3-shadow: rgba(0, 0, 0, 0.1);
   --color-h2-after: #16213e;
   --color-link: #1a56a8;
+  /* Override dark navy colors for better readability */
+  --red-0: #2a4a7f;
+  --red-1: #1e5aa8;
+  --red-2: #3a6ab5;
 }
+/* Navigation links */
+#main-nav a, .nav-icon { color: #2a4a7f !important; }
+/* Header site title */
+.site-title { color: #1a1a2e !important; }
+/* Article titles */
+.article-title { color: #1a1a2e !important; }
 a { color: #1a56a8; }
 a:hover { color: #1e40af; }
 </style>"""
