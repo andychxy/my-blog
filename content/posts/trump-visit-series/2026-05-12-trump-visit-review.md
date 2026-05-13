@@ -5,7 +5,7 @@ draft: false
 translationKey: "trump-visit-review"
 categories: ["地缘政治", "美中关系"]
 tags: ["特朗普", "外交博弈", "回顾"]
-image: "/images/posts/trump-visit-2017-cover.jpg"
+cover: "/images/posts/trump-visit-2017-cover.jpg"
 ---
 
 在特朗普即将再次开启访华之行之际，一个不可避免的切入点是回顾他上一次访华及其整个任期内的对华逻辑。

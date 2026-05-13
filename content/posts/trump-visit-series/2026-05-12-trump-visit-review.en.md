@@ -2,14 +2,15 @@
 title: "Old Dreams and Aftershocks: Reviewing the Logic of Trump's Past Visits to China"
 date: 2026-05-12T12:00:00+08:00
 draft: false
+translationKey: "trump-visit-review"
 categories: ["Geopolitics", "US-China Relations"]
 tags: ["Trump", "Diplomatic Game", "Review"]
-image: "/images/posts/trump-visit-2017-cover.jpg"
+cover: "/images/posts/trump-visit-2017-cover.jpg"
 ---
 
 As Donald Trump prepares for his upcoming visit to China, an inevitable starting point is to review the logic that guided his previous visits and his entire first term.
 
-For most diplomatic observers, diplomacy is the art of agreements, protocols, and incremental consensus. For Trump, however, diplomacy is essentially a **large-scale business negotiation**. Reviewing his logic toward China reveals a clear loop: **Maximum Pressure $ightarrow$ Creating Crisis $ightarrow$ Seeking a Deal $ightarrow$ Reaching a Visible, Local Agreement.**
+For most diplomatic observers, diplomacy is the art of agreements, protocols, and incremental consensus. For Trump, however, diplomacy is essentially a **large-scale business negotiation**. Reviewing his logic toward China reveals a clear loop: **Maximum Pressure → Creating Crisis → Seeking a Deal → Reaching a Visible, Local Agreement.**
 
 ### I. The Underlying Logic: Deals Over Mechanisms
 
