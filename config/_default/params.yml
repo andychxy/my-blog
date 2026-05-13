@@ -37,6 +37,11 @@ internal_theme:
     "--red-5": "#e8f4f8"
     "--red-5-5": "#f0f8ff"
     "--red-6": "#f5f9fc"
+    "--grey-9": "#555555"
+    "--color-default": "#333333"
+    "--color-meta-shadow": "rgba(0, 0, 0, 0.15)"
+    "--color-red-6-shadow": "rgba(0, 0, 0, 0.15)"
+    "--color-red-3-shadow": "rgba(0, 0, 0, 0.1)"
 
 cover: true
 toc: true

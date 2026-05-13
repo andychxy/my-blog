@@ -1,0 +1,10 @@
+/* Custom color overrides for better contrast */
+:root {
+  --grey-9: #555555;
+  --grey-7: #333333;
+  --color-default: #333333;
+  --color-meta-shadow: rgba(0, 0, 0, 0.15);
+  --color-red-6-shadow: rgba(0, 0, 0, 0.15);
+  --color-red-3-shadow: rgba(0, 0, 0, 0.1);
+  --color-h2-after: #16213e;
+}
