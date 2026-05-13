@@ -8,25 +8,35 @@ head_end = """<style>
 :root {
   --grey-9: #555555;
   --grey-7: #333333;
-  --color-default: #333333;
+  --color-default: #222222;
   --color-meta-shadow: rgba(0, 0, 0, 0.15);
   --color-red-6-shadow: rgba(0, 0, 0, 0.15);
   --color-red-3-shadow: rgba(0, 0, 0, 0.1);
   --color-h2-after: #16213e;
   --color-link: #1a56a8;
+  --color-background: #e5e5e5;
   /* Override dark navy colors for better readability */
   --red-0: #2a4a7f;
   --red-1: #1e5aa8;
   --red-2: #3a6ab5;
 }
+/* Global styles */
+body { background-color: #e5e5e5; color: #1a1a1a; }
+#wrap, #main { background-color: #f5f5f5; }
 /* Navigation links */
 #main-nav a, .nav-icon { color: #2a4a7f !important; }
 /* Header site title */
 .site-title { color: #1a1a2e !important; }
 /* Article titles */
 .article-title { color: #1a1a2e !important; }
+.article-meta { color: #555; }
 a { color: #1a56a8; }
 a:hover { color: #1e40af; }
+/* Sidebar */
+#sidebar { background-color: #f0f0f0; }
+#sidebar h3 { color: #333; }
+/* Footer */
+footer { background-color: #e0e0e0; color: #444; }
 </style>"""
 
 [author]
