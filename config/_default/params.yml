@@ -27,6 +27,17 @@ subtitle:
 banner: "/images/banner.webp"
 avatar: "avatar.png"
 
+internal_theme:
+  light:
+    "--red-0": "#1a1a2e"
+    "--red-1": "#16213e"
+    "--red-2": "#0f3460"
+    "--red-3": "#1a5f7a"
+    "--red-4": "#2c7873"
+    "--red-5": "#e8f4f8"
+    "--red-5-5": "#f0f8ff"
+    "--red-6": "#f5f9fc"
+
 cover: true
 toc: true
 
@@ -81,11 +92,7 @@ layout:
   max_width: 1200px
 
 reimu_cursor:
-  enable: true
-  cursor:
-    default: ../images/cursor/reimu-cursor-default.png
-    pointer: ../images/cursor/reimu-cursor-pointer.png
-    text: ../images/cursor/reimu-cursor-text.png
+  enable: false
 
 icon_font: "4552607_ex15nbittbh"
 
@@ -145,7 +152,7 @@ animation:
   enable: true
 
 firework:
-  enable: true
+  enable: false
 
 article_copyright:
   enable: false
