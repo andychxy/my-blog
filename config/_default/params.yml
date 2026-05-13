@@ -1,0 +1,168 @@
+########################################
+# Basic Configuration
+########################################
+
+menu:
+  - name: home
+    url: ""
+  - name: archives
+    url: "archives"
+  - name: about
+    url: "about"
+
+mainSections: ["posts"]
+
+yearFormat: "2006"
+monthFormat: "2006-01"
+dateFormat: "2006-01-02"
+timeFormat: "2006-01-02 15:04:05"
+
+author: Andy
+email: andy@1024ai.cc
+description: "AI与全球地缘政治跨学科分析"
+
+subtitle:
+  text: "AI与全球地缘政治交叉学科分析"
+
+banner: "images/banner.webp"
+avatar: "images/avatar.webp"
+
+cover: true
+toc: true
+
+open_graph:
+  enable: true
+
+excerpt_link: Read More
+
+footer:
+  since: 2026
+  powered: true
+  count: true
+  icon:
+    url: "../images/taichi.png"
+    rotate: true
+    mask: true
+
+sidebar:
+  position: right
+  menu: true
+  article:
+    show_common: true
+
+social:
+  github: https://github.com/andychxy
+
+widgets:
+  - category
+  - tag
+  - tagcloud
+  - recent_posts
+
+category_limits: 10
+tag_limits: 10
+recent_posts_limits: 10
+tagcloud_limits: 20
+
+show_update_time: false
+
+rss:
+  limit: 10
+  showFullContent: false
+  showCopyright: false
+
+sort_order:
+  taxonomy:
+    category: date-reverse
+    tag: date-reverse
+  home: date-reverse
+
+layout:
+  max_width: 1200px
+
+reimu_cursor:
+  enable: true
+  cursor:
+    default: ../images/cursor/reimu-cursor-default.png
+    pointer: ../images/cursor/reimu-cursor-pointer.png
+    text: ../images/cursor/reimu-cursor-text.png
+
+icon_font: "4552607_ex15nbittbh"
+
+font:
+  enable: true
+  article:
+    - Mulish
+    - Noto Serif SC
+  code:
+    - Source Code Pro
+
+local_font:
+  article:
+    - "-apple-system"
+    - PingFang SC
+    - Microsoft YaHei
+    - sans-serif
+  code:
+    - Menlo
+    - Monaco
+    - Consolas
+    - monospace
+
+dark_mode:
+  enable: auto
+
+baidu_analytics: false
+google_analytics: false
+clarity: false
+
+mermaid:
+  zoom: false
+
+code_block:
+  expand: true
+
+clipboard:
+  success:
+    en: Copy successfully (*^▽^*)
+    zh-CN: 复制成功 (*^▽^*)
+    zh-TW: 复制成功 (*^▽^*)
+  fail:
+    en: Copy failed (ﾟ⊿ﾟ)ﾂ
+    zh-CN: 复制失败 (ﾟ⊿ﾟ)ﾂ
+    zh-TW: 复制失败 (ﾟ⊿ﾟ)ﾂ
+
+preloader:
+  enable: true
+  text:
+    zh-CN: 加载中...
+    zh-TW: 加載中...
+    en: Loading...
+  icon:
+  rotate: true
+
+animation:
+  enable: true
+
+firework:
+  enable: true
+
+article_copyright:
+  enable: false
+
+top:
+  enable: true
+  position: right
+  icon:
+    url: "../images/taichi.png"
+    rotate: true
+    mask: true
+
+outdate:
+  enable: false
+
+pangu:
+  enable: false
+
+pace:
+  enable: true

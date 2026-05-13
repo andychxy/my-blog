@@ -1,6 +1,6 @@
 baseURL = "https://blog.1024ai.cc/"
 title = "Andy's Analysis"
-theme = "congo"
+theme = "reimu"
 defaultContentLanguage = "zh"
 
 [author]
@@ -8,22 +8,19 @@ name = "Andy"
 
 [languages]
 [languages.zh]
+languageName = "中文"
+languageCode = "zh-CN"
+weight = 1
 title = "Andy's Analysis"
 description = "AI与全球地缘政治跨学科分析"
-weight = 1
 
 [languages.en]
+languageName = "English"
+languageCode = "en"
+weight = 2
 title = "Andy's Analysis"
 description = "Interdisciplinary analysis of Artificial Intelligence and Global Geopolitics"
-weight = 2
-
-[params]
-description = "AI与全球地缘政治跨学科分析"
-mainSections = ["posts"]
-
-[params.homepage]
-showRecent = true
-recentLimit = 10
+params.languageAltTitle = "中文"
 
 [taxonomies]
 category = "categories"

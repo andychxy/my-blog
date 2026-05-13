@@ -1,6 +1,6 @@
 [submodule "themes/dream"]
 	path = themes/dream
 	url = https://github.com/andychxy/hugo-theme-dream.git
-[submodule "themes/congo"]
-	path = themes/congo
-	url = https://github.com/jpanther/congo.git
+[submodule "themes/reimu"]
+	path = themes/reimu
+	url = https://github.com/D-Sketon/hugo-theme-reimu.git
