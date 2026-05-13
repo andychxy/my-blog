@@ -122,7 +122,7 @@ local_font:
     - monospace
 
 dark_mode:
-  enable: auto
+  enable: false
 
 baidu_analytics: false
 google_analytics: false
