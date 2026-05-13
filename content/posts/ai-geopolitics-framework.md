@@ -1,6 +1,7 @@
 ---
 title: "AI与全球地缘政治：战略分析框架"
 date: 2026-05-08
+cover: "/images/posts/ai-geopolitics-cover.jpg"
 categories: ["Analysis"]
 tags: ["AI", "Geopolitics"]
 description: "探索大语言模型如何改变战略外交中的力量平衡。"

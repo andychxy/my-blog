@@ -1,6 +1,7 @@
 ---
 title: "軍事摩擦：荷莫茲海峽與戰爭邊緣"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Military", "Strait of Hormuz"]
 description: "荷莫茲海峽是全球石油運輸的咽喉要道，美伊在這裡的軍事對峙如何避免擦槍走火？"

@@ -1,6 +1,7 @@
 ---
 title: "美伊恩怨：一个结构性分析框架"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Series Overview"]
 description: "系统梳理美伊关系的历史脉络、核心矛盾与未来走向，建立分析中美博弈的结构性框架。"

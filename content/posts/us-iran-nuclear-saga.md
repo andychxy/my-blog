@@ -1,6 +1,7 @@
 ---
 title: "核問題博弈：JCPOA為何走向崩潰"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Nuclear", "JCPOA"]
 description: "從日内瓦協議到JCPOA再到美國退群，伊朗核問題的談判史揭示了什麼？"

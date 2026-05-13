@@ -1,6 +1,7 @@
 ---
 title: "AI and Geopolitics: A Strategic Framework"
 date: 2026-05-08
+cover: "/images/posts/ai-geopolitics-cover.jpg"
 categories: ["Analysis"]
 tags: ["AI", "Geopolitics"]
 description: "Exploring how large language models are shifting the balance of power in strategic diplomacy."

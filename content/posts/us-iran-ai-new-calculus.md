@@ -1,6 +1,7 @@
 ---
 title: "AI時代的新變量：技術如何改變力量對比"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "AI", "Technology"]
 description: "人工智能、無人機和網絡戰正在重塑美伊博弈的規則。伊朗如何在數位時代找到新的非對稱優勢？"

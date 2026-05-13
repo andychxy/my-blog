@@ -1,6 +1,7 @@
 ---
 title: "Trump Trivia: The Man Who 'Knew Everything Best'"
 date: 2026-05-09
+cover: "/images/posts/trump-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "Trump", "USA", "Fun"]
 description: "Memorable anecdotes from Donald Trump's life as businessman and president"

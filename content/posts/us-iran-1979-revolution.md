@@ -1,6 +1,7 @@
 ---
 title: "1979年革命：一切的起點"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "History"]
 description: "1979年伊斯蘭革命如何顛覆了中東秩序，又為何讓美伊關係走向45年的對抗？"

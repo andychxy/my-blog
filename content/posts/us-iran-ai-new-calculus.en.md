@@ -1,6 +1,7 @@
 ---
 title: "AI as a New Variable: How Technology Shifts the Balance"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "AI", "Technology"]
 description: "Artificial intelligence, drones, and cyber warfare are reshaping the rules of the US-Iran game. How is Iran finding new asymmetric advantages in the digital age?"

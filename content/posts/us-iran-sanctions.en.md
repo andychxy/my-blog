@@ -1,6 +1,7 @@
 ---
 title: "Sanctions Warfare: Does Maximum Pressure Work?"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Sanctions", "Economics"]
 description: "US sanctions on Iran represent one of the largest economic wars in history. What does the data say? How wide is the gap between goals and outcomes?"

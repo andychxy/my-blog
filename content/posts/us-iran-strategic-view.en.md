@@ -1,6 +1,7 @@
 ---
 title: "US-Iran Relations: A Structural Analysis Framework"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Series Overview"]
 description: "A systematic examination of US-Iran relations: historical context, core contradictions, and future trajectory—building a structural framework for analyzing great power competition."

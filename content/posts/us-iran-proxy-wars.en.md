@@ -1,6 +1,7 @@
 ---
 title: "Proxy Wars: Four Fronts Across the Middle East"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Proxy Wars", "Middle East"]
 description: "How Iran built a \"Resistance Arc\" across four countries through proxy networks, challenging America's Middle Eastern order."

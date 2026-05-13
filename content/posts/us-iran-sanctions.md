@@ -1,6 +1,7 @@
 ---
 title: "制裁經濟戰：極限施壓有效嗎？"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Sanctions", "Economics"]
 description: "美國對伊朗的制裁是歷史上最大規模的經濟戰之一。數據說什麼？目標與結果之間存在怎樣的鴻溝？"

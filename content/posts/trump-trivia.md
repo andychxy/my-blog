@@ -1,6 +1,7 @@
 ---
 title: "川普轶事：那些不为人知的懂王瞬间"
 date: 2026-05-09
+cover: "/images/posts/trump-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "Trump", "USA", "Fun"]
 description: "从商人到总统，川普的那些令人印象深刻的轶事"

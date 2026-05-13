@@ -1,6 +1,7 @@
 ---
 title: "Military Friction: The Strait of Hormuz and the Edge of War"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Military", "Strait of Hormuz"]
 description: "The Strait of Hormuz is the jugular vein of global oil transportation. How do the US and Iran avoid accidental clashes here?"

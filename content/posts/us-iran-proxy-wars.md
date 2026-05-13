@@ -1,6 +1,7 @@
 ---
 title: "代理人之戰：中東的四條戰線"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Proxy Wars", "Middle East"]
 description: "伊朗如何通過代理人網絡在四個國家構建了\"抵抗弧線\"，挑戰美國的中東秩序。"

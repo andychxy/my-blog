@@ -1,6 +1,7 @@
 ---
 title: "The 1979 Revolution: Where It All Began"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "History"]
 description: "How the 1979 Islamic Revolution upended Middle Eastern order and drove US-Iran relations into 45 years of confrontation."

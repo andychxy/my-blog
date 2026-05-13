@@ -1,6 +1,7 @@
 ---
 title: "AI芯片战争2026：一场没有终点的马拉松"
 date: 2026-05-11
+cover: "/images/posts/ai-chip-war-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "AI", "Geopolitics", "US-China", "Nvidia", "AMD", "Chip War"]
 description: "出口管制收紧、国产替代加速、三大洲算力争夺——2026年AI芯片战争进入新阶段，黄仁勋和苏姿丰的最新表态意味着什么？"

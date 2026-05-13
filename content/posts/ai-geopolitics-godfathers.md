@@ -1,6 +1,7 @@
 ---
 title: "AI教父们的地缘政治抉择——从芯片战争到资本博弈"
 date: 2026-05-10
+cover: "/images/posts/ai-geopolitics-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "AI", "Geopolitics", "US-China", "Nvidia", "Sam Altman"]
 description: "黄仁勋、苏姿丰、Sam Altman——三位AI时代的「教父」级人物，2026年在达沃斯罕见集体发声，他们的表态背后藏着怎样的国家博弈与资本逻辑？"

@@ -1,6 +1,7 @@
 ---
 title: "The AI Chip War in 2026: A Marathon With No Finish Line"
 date: 2026-05-11
+cover: "/images/posts/ai-chip-war-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "AI", "Geopolitics", "US-China", "Nvidia", "AMD", "Chip War"]
 description: "Tighter export controls, accelerated domestic substitution, and a three-continent race for computing power — as the AI chip war enters a new phase, what do Jensen Huang and Lisa Su's latest statements really mean?"

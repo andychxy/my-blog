@@ -1,6 +1,7 @@
 ---
 title: "Nuclear博弈: Why JCPOA Collapsed"
 date: 2026-05-08
+cover: "/images/posts/us-iran-cover.jpg"
 categories: ["Analysis"]
 tags: ["Series", "Geopolitics", "US-Iran", "Nuclear", "JCPOA"]
 description: "From the Geneva Agreement to JCPOA to America's withdrawal—what does the negotiation history of Iran's nuclear program reveal?"
