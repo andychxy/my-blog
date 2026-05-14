@@ -100,5 +100,5 @@ strict = "0"
 reactionsEnabled = "1"
 emitMetadata = "0"
 inputPosition = "bottom"
-theme = ""
+theme = {}
 lang = "zh-CN"
