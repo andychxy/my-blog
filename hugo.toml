@@ -87,4 +87,18 @@ params.languageAltTitle = "中文"
 
 [taxonomies]
 category = "categories"
-tag = "tags"# Force rebuild Thu May 14 11:32:55 AM CST 2026
+tag = "tags"
+
+[params.giscus]
+enable = true
+repo = "andychxy/my-blog"
+repoId = "R_kgDOSXktkQ"
+category = "General"
+categoryId = "DIC_kwDOSXktkc4C9By5"
+mapping = "pathname"
+strict = "0"
+reactionsEnabled = "1"
+emitMetadata = "0"
+inputPosition = "bottom"
+theme = ""
+lang = "zh-CN"
