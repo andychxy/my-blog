@@ -1,7 +1,7 @@
 ---
 title: '现代化的扭曲：明治维新与军国主义的种子'
 date: 2026-05-15
-cover: ""
+cover: "/images/posts/japanese-militarism-1-cover.jpg"
 categories: ['历史剖析', '日本研究']
 tags: ['军国主义', '明治维新', '帝国主义']
 description: '探讨日本军国主义如何从明治维新的现代化进程中萌芽，以及西化与绝对忠诚的畸形结合。'
