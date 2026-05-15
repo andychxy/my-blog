@@ -1,7 +1,7 @@
 ---
 title: 'The Distortion of Modernization: Meiji Restoration and the Seeds of Militarism'
 date: 2026-05-15
-cover: "/images/posts/japanese-militarism-1.jpg"
+cover: ""
 categories: ['Historical Analysis', 'Japan Studies']
 tags: ['Militarism', 'Meiji Restoration', 'Imperialism']
 description: 'Exploring how Japanese militarism sprouted from the modernization process of the Meiji Restoration and the distorted combination of Westernization and absolute loyalty.'
