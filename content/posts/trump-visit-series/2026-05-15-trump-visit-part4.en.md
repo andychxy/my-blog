@@ -1,10 +1,10 @@
 ---
-title: 'After the Pageantry: What Trump'\''s China Visit Really Changed — and What It Didn'\''t'
+title: "After the Pageantry: What Trump's China Visit Really Changed — and What It Didn't"
 date: 2026-05-15
 cover: "/images/posts/trump-visit-part4-cover.jpg"
 categories: ["Geopolitics", "US-China Relations"]
 tags: ["Trump", "US-China Relations", "Trade War", "Taiwan", "Diplomacy", "Iran", "Geopolitics"]
-description: 'Trump'\''s three-day visit to China from May 13-15, 2026 concluded with grand ceremony and warm rhetoric, but few concrete deliverables. Beyond the spectacle, what did the summit really achieve — and what did it leave unresolved?'
+description: "Trump's three-day visit to China from May 13-15, 2026 concluded with grand ceremony and warm rhetoric, but few concrete deliverables. Beyond the spectacle, what did the summit really achieve — and what did it leave unresolved?"
 translationKey: "trump-visit-review-part4"
 ---
 
