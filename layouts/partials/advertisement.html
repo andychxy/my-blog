@@ -1,0 +1,51 @@
+{{/*
+  广告位 partial — 用于 AdSense 等广告代码注入
+
+  使用方式：
+    1. 申请 Google AdSense 后，将获得的 <script> 和 <ins> 代码粘贴到对应位置
+    2. 广告位说明：
+       - ad_article_top    : 文章正文上方（紧接标题之后）
+       - ad_article_bottom  : 文章正文下方（评论区之前）← 最常用
+       - ad_list_infeed    : 文章列表信息流广告（每 N 篇文章之间）
+
+  AdSense 示例结构：
+    <script async src="https://pagead2.googlesyndication.com/...></script>
+    <ins class="adsbygoogle" ...></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+  注意：AdSense 审批通过后再填入真实代码，当前为占位结构。
+*/}}
+
+{{/*
+<!-- ==================== 文章内广告位示例（评论区前） ==================== -->
+<!-- 将以下代码替换为你的 AdSense ins 代码 -->
+<div id="ad-article-bottom" style="margin: 2rem 0; text-align: center; min-height: 90px;">
+  <!-- AdSense 文章底部广告位 -->
+  <!--
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-XXXXXXXXXX"
+       data-ad-slot="XXXXXXXXXX"
+       data-ad-format="auto"
+       data-full-width-responsive="true">
+  </ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  -->
+</div>
+*/}}
+
+{{/*
+<!-- ==================== 文章列表信息流广告位示例 ==================== -->
+<div id="ad-list-infeed" style="margin: 1.5rem 0; text-align: center; min-height: 90px;">
+  <!-- AdSense 信息流广告位 -->
+</div>
+*/}}
+
+{{/*
+<!-- ==================== 文章顶部广告位（标题下方） ==================== -->
+<div id="ad-article-top" style="margin-bottom: 1.5rem; text-align: center; min-height: 90px;">
+  <!-- AdSense 文章顶部广告位 -->
+</div>
+*/}}

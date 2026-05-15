@@ -64,7 +64,12 @@ footer { background-color: #e0e0e0; color: #444; }
   ::-webkit-scrollbar-track { background: #1a1a1a; }
   ::-webkit-scrollbar-thumb { background: #444; }
 }
-</style>"""
+</style>
+
+<!-- Google AdSense — replace placeholder values with your real AdSense pub-XXX and ad slot IDs -->
+<!--
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script>
+-->"""
 
 [author]
 name = "Andy"
