@@ -52,4 +52,8 @@ Trump treated "the art of the deal" as a governing philosophy:
 
 ---
 
+**Image Credit**: Cover photo by [Aaron Kittredge](https://www.pexels.com/photo/129112/), via Pexels.
+
+---
+
 *This article is for entertainment purposes only and does not reflect the author's political stance.*

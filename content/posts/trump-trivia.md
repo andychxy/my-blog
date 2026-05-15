@@ -52,4 +52,8 @@ description: "从商人到总统，川普的那些令人印象深刻的轶事"
 
 ---
 
+**图片来源**：封面图由 [Aaron Kittredge](https://www.pexels.com/zh-cn/photo/129112/) 拍摄，来源于 Pexels。
+
+---
+
 *本文为轻松向分析，不代表作者政治立场*
