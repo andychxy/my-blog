@@ -66,10 +66,8 @@ footer { background-color: #e0e0e0; color: #444; }
 }
 </style>
 
-<!-- Google AdSense — replace placeholder values with your real AdSense pub-XXX and ad slot IDs -->
-<!--
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script>
--->"""
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4230020512872874" crossorigin="anonymous"></script>"""
 
 [author]
 name = "Andy"
