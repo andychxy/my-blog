@@ -1,7 +1,7 @@
 ---
 title: "帝国扩张：从满洲到东亚的侵略"
 date: 2026-05-15
-cover: "/images/posts/japan-militarism-part2.jpg"
+cover: "/images/posts/japanese-militarism/expansion-cover.jpg"
 categories: ["日本军国主义", "历史"]
 tags: ["满洲", "侵略", "二战前", "美国文献", "欧洲研究"]
 description: "探讨日本从满洲到东亚的扩张路径及其背后的政治、经济动因，并引用美欧学术来源。"

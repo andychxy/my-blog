@@ -1,7 +1,7 @@
 ---
 title: "Imperial Expansion: From Manchuria to East Asian Aggression"
 date: 2026-05-15
-cover: "/images/posts/japan-militarism-part2.jpg"
+cover: "/images/posts/japanese-militarism/expansion-cover.jpg"
 categories: ["Japanese Militarism", "History"]
 tags: ["Manchuria", "Aggression", "Pre-WWII", "US Scholarship", "European Research"]
 description: "An analysis of Japan's imperial expansion from Manchuria to broader East Asian conquests, exploring political, economic motivations and citing US and European scholarly sources."

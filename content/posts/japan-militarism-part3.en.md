@@ -1,7 +1,7 @@
 ---
 title: "Post-War Shadows: The Constitutional Reform Debate and Historical Revisionism"
 date: 2026-05-15
-cover: "/images/posts/japan-militarism-part3.jpg"
+cover: "/images/posts/japanese-militarism/postwar-shadow-cover.jpg"
 categories: ["Japanese Militarism", "Post-War Reflection"]
 tags: ["Peace Constitution", "Constitutional Reform", "Historical Revisionism", "Yasukuni", "US Diplomacy"]
 description: "An examination of the controversies surrounding Japan's post-war Peace Constitution, the political dynamics of constitutional reform, and how historical revisionism shapes Japanese society's understanding of its wartime crimes."

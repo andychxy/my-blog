@@ -1,7 +1,7 @@
 ---
 title: "战后阴影：修宪争议与历史修正主义"
 date: 2026-05-15
-cover: "/images/posts/japan-militarism-part3.jpg"
+cover: "/images/posts/japanese-militarism/postwar-shadow-cover.jpg"
 categories: ["日本军国主义", "战后反思"]
 tags: ["和平宪法", "修宪", "历史修正主义", "靖国神社", "美国外交"]
 description: "探讨日本战后和平宪法的争议、修宪运动的历史背景与现实博弈，以及历史修正主义如何影响日本社会对战争罪行的认知。"
