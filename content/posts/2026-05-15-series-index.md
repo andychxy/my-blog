@@ -29,9 +29,7 @@ translationKey: "japanese-militarism-series"
 - [中文版](/posts/2026-05-15-hiroshima-nagasaki/) | [English](/posts/2026-05-15-hiroshima-nagasaki.en/)
 - 关键词：原子弹、杜鲁门、一亿玉碎、战后决策逻辑
 
-### 文章三：战后阴影：修宪争议与历史修正主义
-- [中文版](/posts/2026-05-15-postwar-shadow/) | [English](/posts/2026-05-15-postwar-shadow.en/)
-- 关键词：和平宪法第九条、靖国神社、教科书问题、历史修正主义
+
 
 ### 文章四：军事再武装与地缘政治：地区紧张局势的加剧
 - [中文版](/posts/2026-05-15-geopolitics/) | [English](/posts/2026-05-15-geopolitics.en/)
