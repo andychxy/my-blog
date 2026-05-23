@@ -77,7 +77,7 @@ jobs:
 
           # 将部署提升为 production
           echo "提升到 production..."
-          promote_response=$(curl -s -X POST \
+          promote_response=$(curl -s -X PUT \
             -H "Authorization: Bearer ${{ secrets.CLOUDFLAREAPITOKEN }}" \
             -H "Content-Type: application/json" \
             "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CLOUDFLAREACCOUNTID }}/pages/projects/my-blog/deployments/$deployment_id/promote")
