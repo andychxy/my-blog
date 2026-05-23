@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: read
+  deployments: write
 
 jobs:
   build-deploy:
@@ -27,64 +28,12 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy to Cloudflare Pages via API
-        run: |
-          response=$(curl -s -X POST \
-            -H "Authorization: Bearer ${{ secrets.CLOUDFLAREAPITOKEN }}" \
-            -H "Content-Type: application/json" \
-            "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CLOUDFLAREACCOUNTID }}/pages/projects/my-blog/deployments" \
-            -d '{
-              "branch": "main",
-              "build_config": {
-                "build_command": "hugo --minify",
-                "destination_dir": "public"
-              },
-              "source": {
-                "type": "github",
-                "config": {
-                  "owner": "andychxy",
-                  "repo": "my-blog",
-                  "production_branch": "main"
-                }
-              }
-            }')
-
-          echo "响应: $response"
-          deployment_id=$(echo "$response" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('result',{}).get('id',''))")
-          echo "部署ID: $deployment_id"
-          if [ -z "$deployment_id" ]; then
-            echo "部署发起失败"
-            exit 1
-          fi
-
-          # 等待部署构建完成（最多 120 秒，每 10 秒轮询）
-          echo "等待构建完成..."
-          for i in $(seq 1 12); do
-            sleep 10
-            status_response=$(curl -s -H "Authorization: Bearer ${{ secrets.CLOUDFLAREAPITOKEN }}" \
-              "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CLOUDFLAREACCOUNTID }}/pages/projects/my-blog/deployments/$deployment_id")
-            latest_stage=$(echo "$status_response" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('result',{}).get('latest_stage',{}).get('name',''))")
-            stage_status=$(echo "$status_response" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('result',{}).get('latest_stage',{}).get('status',''))")
-            echo "第 ${i} 次检查: stage=$latest_stage status=$stage_status"
-            if [ "$stage_status" = "success" ]; then
-              echo "构建成功"
-              break
-            elif [ "$stage_status" = "failure" ]; then
-              echo "构建失败"
-              exit 1
-            fi
-          done
-
-          # 将部署提升为 production
-          echo "提升到 production..."
-          promote_response=$(curl -s -X PUT \
-            -H "Authorization: Bearer ${{ secrets.CLOUDFLAREAPITOKEN }}" \
-            -H "Content-Type: application/json" \
-            "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CLOUDFLAREACCOUNTID }}/pages/projects/my-blog/deployments/$deployment_id/promote")
-          echo "Promote 响应: $promote_response"
-          promote_success=$(echo "$promote_response" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('success',''))")
-          if [ "$promote_success" != "True" ]; then
-            echo "Promote 失败"
-            exit 1
-          fi
-          echo "已提升为 production 部署"
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLAREAPITOKEN }}
+          accountId: ${{ secrets.CLOUDFLAREACCOUNTID }}
+          projectName: my-blog
+          directory: public
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          productionBranch: main
