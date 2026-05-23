@@ -27,16 +27,32 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy to Cloudflare Pages
+      - name: Deploy to Cloudflare Pages via API
         run: |
-          npm install -g wrangler@3
-          for i in 1 2 3; do
-            echo "尝试 $i..."
-            if wrangler pages deploy public --project-name=my-blog --branch=production; then
-              echo "部署成功"
-              break
-            else
-              echo "部署失败，10秒后重试..."
-              sleep 10
-            fi
-          done
+          response=$(curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLAREAPITOKEN }}" \
+            -H "Content-Type: application/json" \
+            "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CLOUDFLAREACCOUNTID }}/pages/projects/my-blog/deployments" \
+            -d '{
+              "branch": "main",
+              "build_config": {
+                "build_command": "hugo --minify",
+                "destination_dir": "public"
+              },
+              "source": {
+                "type": "github",
+                "config": {
+                  "owner": "andychxy",
+                  "repo": "my-blog",
+                  "production_branch": "main"
+                }
+              }
+            }')
+
+          echo "响应: $response"
+          deployment_id=$(echo "$response" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('result',{}).get('id',''))")
+          echo "部署ID: $deployment_id"
+          if [ -z "$deployment_id" ]; then
+            echo "部署发起失败"
+            exit 1
+          fi
