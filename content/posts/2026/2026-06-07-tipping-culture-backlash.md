@@ -1,7 +1,7 @@
 ---
 title: "美国人受够了：一场关于小费的全国性反思正在发生"
 date: 2026-06-07
-coverImage: "https://images.pexels.com/photos/3215555/pexels-photo-3215555.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover: "/images/posts/tipping-culture/cover.jpg"
 coverImageCredit: "图片来源: Pexels (https://www.pexels.com/photo/people-dining-at-a-restaurant-3215555/)"
 tags: ["文化", "消费", "美国", "服务业"]
 ---
