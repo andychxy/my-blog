@@ -1,9 +1,9 @@
 ---
 title: "Americans Have Had Enough: A National Reckoning Over Tipping Culture Is Underway"
 date: 2026-06-07
-translationKey: tipping-culture-backlash-2026
-coverImage: "https://images.pexels.com/photos/5520300/pexels-photo-5520300.jpeg?auto=compress&cs=tinysrgb&w=800"
-coverImageCredit: "Image Credit: Pexels (https://www.pexels.com/photo/money-receipt-5520300/)"
+translationKey: tipping-culture-backlash-en
+coverImage: "https://images.pexels.com/photos/3215555/pexels-photo-3215555.jpeg?auto=compress&cs=tinysrgb&w=800"
+coverImageCredit: "Image Credit: Pexels (https://www.pexels.com/photo/people-dining-at-a-restaurant-3215555/)"
 tags: ["Culture", "Consumer", "United States", "Service Industry"]
 ---
 

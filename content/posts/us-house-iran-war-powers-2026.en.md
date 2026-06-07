@@ -50,7 +50,7 @@ Both readings can be true simultaneously.
 
 Thirteen Republican defectors. In isolation, just a number. In context, it points to something bigger: Trump's Republican Party isn't a foreign policy coalition anymore. It's a coalition of factions with fundamentally different views on military intervention:
 
-1. **MAGA anti-interventionists**: Trump himself, mostly —不喜欢无休止的战争 but comfortable with tariffs and sanctions as substitutes.
+1. **MAGA anti-interventionists**: Trump himself, mostly — hostile to endless wars but comfortable with tariffs and sanctions as blunt substitutes for military force.
 2. **Traditional conservatives**: pro-Israel, Iran-hostile, China-skeptical — closer to the Democratic foreign policy establishment than to MAGA on these specific issues.
 3. **Christian right**: Israel as divine mandate; Iran as satanic proxy; any withdrawal as betrayal.
 
@@ -74,4 +74,4 @@ And for Iran, the vote sends a message: as long as you don't kill Americans, Ame
 
 ---
 
-*本文同步发布于 [blog.1024ai.cc](/cn/)*
+*This article is also available in Chinese at [blog.1024ai.cc](/cn/)*
