@@ -1,7 +1,7 @@
 ---
 title: "Nigel Farage and His Four Ghosts: The Hidden Crisis Behind Reform UK's Rise"
 date: 2026-05-27
-cover: "https://images.pexels.com/photos/1558623/pexels-photo-1558623.jpeg?auto=compress&cs=tinysrgb&h=130"
+cover: "/images/posts/reform-uk/cover.jpg"
 categories: ["International Politics", "European Studies"]
 tags: ["UK", "Reform UK", "Nigel Farage", "Far-Right", "British Politics", "Musk", "Immigration Policy", "Brexit"]
 description: "In the May 2026 UK local elections, Reform UK won over 700 council seats with polling consistently at 24-28%, outperforming both Labour and the Conservatives. Nigel Farage spent seven years building a fringe party into Britain's third political force. But right now, four crises are converging on him simultaneously—and the real test is only beginning."

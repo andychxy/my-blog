@@ -1,7 +1,7 @@
 ---
 title: "以色列政府的结构性解体：一场由极端正统派引发的政治雪崩"
 date: 2026-05-23
-cover: "https://images.pexels.com/photos/12748685/pexels-photo-12748685.jpeg?auto=compress&cs=tinysrgb&h=130"
+cover: "/images/posts/israel-coalition-collapse/cover.jpg"
 categories: ["国际政治", "中东研究"]
 tags: ["以色列", "内塔尼亚胡", "极端正统派", "Haredi", "征兵法", "提前大选", "美伊战争", "中东格局"]
 description: "以色列议会即将解散，根源是极端正统派因征兵豁免法立法停滞愤而反水。本文在梳理事件脉络的同时，重点预测这场危机会如何重塑以色列政坛格局、中东地区力量对比，以及美以伊三角博弈的走向。"

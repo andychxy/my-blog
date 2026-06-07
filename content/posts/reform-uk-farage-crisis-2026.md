@@ -1,7 +1,7 @@
 ---
 title: "法拉奇和他身后的四个幽灵：Reform UK 的盛世危言"
 date: 2026-05-27
-cover: "https://images.pexels.com/photos/1558623/pexels-photo-1558623.jpeg?auto=compress&cs=tinysrgb&h=130"
+cover: "/images/posts/reform-uk/cover.jpg"
 categories: ["国际政治", "欧洲研究"]
 tags: ["英国", "Reform UK", "法拉奇", "极右翼", "英国大选", "Musk", "移民政策", "英国脱欧"]
 description: "2026年5月英国地方选举，Reform UK 拿下700多个地方议席，民调稳定领先保守党和工党。 Nigel Farage 用了七年时间把一个边缘小党建成了英国第三大政治力量。但正在这个节骨眼上，他的四面起火：议会针对其未申报的500万英镑捐款启动调查，Musk公开骂他撒谎，党内两位干将因移民政策公开对骂，那套俄罗斯黑客的叙事连军情五处前主管都说是胡扯。这个故事值得细看。"

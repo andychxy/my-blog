@@ -1,7 +1,7 @@
 ---
 title: "The Self-Inflicted Collapse of Israel's Government: A Political Avalanche Triggered by the Haredi"
 date: 2026-05-23
-cover: "https://images.pexels.com/photos/12748685/pexels-photo-12748685.jpeg?auto=compress&cs=tinysrgb&h=130"
+cover: "/images/posts/israel-coalition-collapse/cover.jpg"
 categories: ["International Politics", "Middle East Studies"]
 tags: ["Israel", "Netanyahu", "Haredi", "Conscription Law", "Snap Election", "US-Iran War", "Middle East", "Coalition Government"]
 description: "Israel's parliament is heading for dissolution. The real story is not just a coalition crisis — it is a three-way structural collapse with consequences for Israeli politics, the Gaza war, and the US-Israel military campaign against Iran. Here is what comes next."
