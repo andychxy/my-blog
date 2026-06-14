@@ -1,7 +1,7 @@
 ---
 title: "美伊停火协议的三个版本：各说各话的和平"
 date: 2026-06-14
-cover: "https://images.unsplash.com/photo-1569269758775-2b5e4e7e0b93?w=1200"
+cover: "/images/cover-ceasefire.jpg"
 translationKey: "us-iran-israel-ceasefire-versions"
 authors: ["1024AI"]
 categories: ["国际观察"]
