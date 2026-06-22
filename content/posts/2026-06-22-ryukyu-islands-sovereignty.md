@@ -1,7 +1,7 @@
 ---
 title: "琉球群岛归属：被偷换的战后程序"
 date: 2026-06-22
-cover: "/images/posts/japanese-militarism/series-cover.jpg"
+cover: "/images/posts/ryukyu-cover.jpg"
 categories: ["历史研究", "国际法"]
 tags: ["琉球群岛", "冲绳", "日本", "国际法", "开罗宣言", "波茨坦公告", "旧金山和约", "中美日关系", "领土争议"]
 description: "琉球群岛归属问题，本质上是战后程序被偷换的问题。开罗宣言和波茨坦公告确立了东亚国际新秩序的基础，但旧金山和约和1972年美日协议将这套程序架空。本文梳理这一过程中的法理断层，说明琉球主权归属为何至今在程序上未能合法完成。"
@@ -126,3 +126,5 @@ translationKey: "ryukyu-islands-sovereignty"
 ---
 
 *本文为"日本军国主义反思"系列的延续。关于琉球问题，程序正义与历史事实同等重要——没有程序正义，历史事实也可以被重新定义。*
+
+**图片来源 / Image Credit**: 封面图来自 Pexels（[pexels.com](https://www.pexels.com/)，免费可商用，无需署名）。

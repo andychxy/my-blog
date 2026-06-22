@@ -24,9 +24,9 @@ To understand why this agreement has proven so elusive, you need to trace what's
 
 ---
 
-## Background: The Twelve-Day War
+## Background: Escalation and the Ceasefire Deadlock
 
-In late February 2026, the United States and Israel launched a coordinated military campaign against Iran. The conflict — quickly dubbed the "Twelve-Day War" — ended on February 11 when Israel and Iran agreed to a ceasefire. The hot war phase was over.
+In early 2026, tensions in the Middle East spiked as the United States and Israel launched a series of coordinated military operations targeting Iran's nuclear facilities and missile bases. While a partial ceasefire was reached between Israel and Iran around February 11, marking the end of the most intense phase of direct military conflict, the overall situation remained extremely fragile.
 
 But that was the Israel-Iran ceasefire. The US and Iran were on a different track entirely.
 

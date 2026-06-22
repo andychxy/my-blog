@@ -1,7 +1,7 @@
 ---
 title: "The Sovereignty of the Ryukyu Islands: The Post-War Procedure That Was Never Completed"
 date: 2026-06-22
-cover: "/images/posts/japanese-militarism/series-cover.jpg"
+cover: "/images/posts/ryukyu-cover.jpg"
 categories: ["Historical Studies", "International Law"]
 tags: ["Ryukyu Islands", "Okinawa", "Japan", "International Law", "Cairo Declaration", "Potsdam Declaration", "Treaty of San Francisco", "US-China-Japan Relations", "Territorial Dispute"]
 description: "The Ryukyu Islands sovereignty question is fundamentally a matter of procedure — the post-war process for determining their status was never completed. The Cairo Declaration and Potsdam Declaration established the foundational principles for the post-war East Asian order, but the Treaty of San Francisco and the 1972 U.S.-Japan agreement circumvented these procedures entirely. This article traces the procedural break in the legal chain, explaining why Ryukyu's sovereignty has never been formally resolved through legitimate post-war process."
@@ -127,4 +127,4 @@ This is not a historical question requiring new evidence to adjudicate. It is a 
 
 *This article continues the "Reflections on Japanese Militarism" series. On the Ryukyu question, procedural justice is as important as historical truth — because when procedural justice is set aside, historical truth can always be rewritten.*
 
-**Image Credit**: Cover image sourced from Wikimedia Commons. Specific licensing terms apply.
+**Image Credit**: Cover image sourced from Pexels (pexels.com, free for commercial use, no attribution required).
