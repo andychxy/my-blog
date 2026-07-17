@@ -1,5 +1,5 @@
 ---
-title: "制度合法，民主没有：全球"继承人政治"图谱"
+title: '制度合法，民主没有：全球"继承人政治"图谱'
 date: 2026-07-15
 cover: "/images/posts/geopolitics-cover.jpg"
 translationKey: "global-dynastic-politics-2026"
